@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 
 </p>
 
-[![Basheeruddin's twitter](http://i.imgur.com/tXSoThF.png)](https://twitter.com/koumudi_psk)
-[![Basheeruddin's github](http://i.imgur.com/0o48UoR.png)](https://github.com/koumudi-panguluri)
-[![Basheeruddin's facebook](http://i.imgur.com/P3YfQoD.png)](https://facebook.com/koumudi_psk)
+[![Basheeruddin's twitter](http://i.imgur.com/tXSoThF.png)](https://twitter.com/basheeruddin_sk)
+[![Basheeruddin's github](http://i.imgur.com/0o48UoR.png)](https://github.com/basheeruddin-sheik)
+[![Basheeruddin's facebook](http://i.imgur.com/P3YfQoD.png)](https://www.facebook.com/profile.php?id=100005039928864)
