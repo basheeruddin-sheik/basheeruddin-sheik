@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m in collaboration with Apollo Telehealth
 - 💻 My projects are available at [Github](https://github.com/basheeruddin-sheik)
 - 📝 Connect with me on [LinkedIn](https://www.linkedin.com/in/sheik-basheeruddin-b2a203180/)
-- 💬 Ask me about MEAN, MERN and DL.
+- 💬 Ask me about MEAN, MERN.
 - 📫 How to reach me: sheikbasheeruddin123@gmail.com
 
 [![Basheeruddin's github stats](https://github-readme-stats.vercel.app/api?username=basheeruddin-sheik&show_icons=true&theme=tokyonight)](https://github.com/basheeruddin-sheik/github-readme-stats)
