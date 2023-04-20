@@ -3,8 +3,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Flutter apps
-- 🌱 I’m currently learning Dart
+- 🔭 I’m currently working on Angular apps
+- 🌱 I’m currently learning GraphQL
 - 👯 I’m in collaboration with Apollo Telehealth
 - 💻 My projects are available at [Github](https://github.com/basheeruddin-sheik)
 - 📝 Connect with me on [LinkedIn](https://www.linkedin.com/in/sheik-basheeruddin-b2a203180/)
